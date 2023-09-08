@@ -1,0 +1,203 @@
+<div class="container-fluid m-0 p-0" style="overflow: hidden; background-color: #777; width: 100%;">
+    <div class="container-flex" style="background-color: #333;">
+        <img src="" class="pl-3" style="height: 30px;" />
+        <span class="pl-2" style="font-family: cursive; font-size: 2em;">Furbook</span>
+    </div>
+    
+    <!--Banner and Bar-->
+    <div class="container-fluid p-0" name="BannerNBar">
+        <ul class="p-0" style="list-style-type: none; background-color: #a0f; background-image: url('https://prohygiene.com/usa/wp-content/uploads/sites/18/2015/12/placeholder.gif'); background-size: cover;">
+            <li class="p-0" style="">
+                <div class="container-fluid p-0" style=" width: 100%; height: 25vh;">
+                    
+                </div>
+            </li>
+            <li>
+                <div class="container-fluid p-0">
+                    <div class="container-fluid p-0">
+                        <ul class="p-0 m-0 nav" style="list-style-type: none;">
+                            <li style="display: inline; ">
+                                <img class="m-3" src="https://static.vecteezy.com/system/resources/thumbnails/021/548/095/small/default-profile-picture-avatar-user-avatar-icon-person-icon-head-icon-profile-picture-icons-default-anonymous-user-male-and-female-businessman-photo-placeholder-social-network-avatar-portrait-free-vector.jpg" style="border-radius: 50%; overflow: hidden; aspect-ratio: 1; width: 150px; border: solid 0.4em #666; object-fit: cover; display: block;" />
+                            </li>
+                            <li class="mt-auto ml-3 pb-3 pl-5" style="background-color: #555; box-shadow: -200px 0px #555; display: inline; width: 100%;">
+                                <div class="container-fluid p-3" style="width: 100%;">
+                                    <span style="font-size:2em;">[Sona Name]</span>
+                                    <span class="pl-1" style="font-size:1.5em;">[Sona pronouns]</span>
+                                </div>
+                            </li>
+                        </ul>
+                       
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <!--Main Page-->
+    <div class="container-fluid p-0 m-0">
+        <!--Description and Backstory-->
+        <div class="container-fluid" style="display: inline-block; width: 100%;">
+            <div class="row justify-content-center align-items-stretch">
+                <div class="col m-3 p-3" style="background-color: #666; border-radius: 0.5em;">
+                    <span style="font-size: 1.5em;">Description:</span>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium metus id massa mattis, vel faucibus mi gravida. Proin non tempus velit, sed laoreet orci. Suspendisse potenti. Donec a lectus nisi. Nullam sit amet enim eu lorem molestie efficitur. In hac habitasse platea dictumst. Sed condimentum porta nulla et congue. Quisque dignissim vehicula arcu, at ultrices nisi aliquet eget. Etiam eget vehicula magna, a dignissim sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis eu eleifend nunc. In augue ex, varius sed nisl sit amet, tristique interdum nisl. Praesent posuere ligula tortor, ac sodales nulla egestas eu. Maecenas condimentum tincidunt mattis. Fusce malesuada purus id pretium lobortis.</p>
+                </div>
+                <div class="col m-3 p-3" style="background-color: #666; border-radius: 0.5em;">
+                    <span style="font-size: 1.5em;">Backstory:</span>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pretium metus id massa mattis, vel faucibus mi gravida. Proin non tempus velit, sed laoreet orci. Suspendisse potenti. Donec a lectus nisi. Nullam sit amet enim eu lorem molestie efficitur. In hac habitasse platea dictumst. Sed condimentum porta nulla et congue. Quisque dignissim vehicula arcu, at ultrices nisi aliquet eget. Etiam eget vehicula magna, a dignissim sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis eu eleifend nunc. In augue ex, varius sed nisl sit amet, tristique interdum nisl. Praesent posuere ligula tortor, ac sodales nulla egestas eu. Maecenas condimentum tincidunt mattis. Fusce malesuada purus id pretium lobortis.</p>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="table-hover text-center mx-auto my-3" style="width: 60%;">
+            <div class="row">
+                <div class="col">
+                    <a href="#photos" class="py-3 btn btn-primary" style="font-size: 1.2em; width: 100%;">Photos</a>
+                </div>
+                <div class="col">
+                    <a href="#friends" class="py-3 btn btn-primary" style="font-size: 1.2em; width: 100%;">Friends</a>
+                </div>
+                <div class="col">
+                    <a href="#anno" class="py-3 btn btn-primary" style="font-size: 1.2em; width: 100%;">Announcments</a>
+                </div>
+                <div class="col">
+                    <a href="#bottom" class="py-3 btn btn-primary" style="font-size: 1.2em; width: 100%;">Gallery</a>
+                </div>
+            </div>
+        </div>
+        <div class="container-flex mx-auto text-center" style="width: 60%;">
+            <span style="font-size: 1.5em;" id="photos">Photos:</span>
+        </div>
+        <!--Photos Table-->
+        <div class="table-hover mx-auto p-3" style="width: 60%; background-color: #666; border-radius: 0.5em;">
+            <div class="row">
+                <!--Photo-->
+                <div class="col p-2">
+                    <img src="https://prohygiene.com/usa/wp-content/uploads/sites/18/2015/12/placeholder.gif">
+                </div>
+                <!--Photo-->
+                <div class="col p-2">
+                    <img src="https://prohygiene.com/usa/wp-content/uploads/sites/18/2015/12/placeholder.gif">
+                </div>
+                <!--Photo-->
+                <div class="col p-2">
+                    <img src="https://prohygiene.com/usa/wp-content/uploads/sites/18/2015/12/placeholder.gif">
+                </div>
+            </div>
+            <div class="row">
+                <!--Photo-->
+                <div class="col p-2">
+                    <img src="https://prohygiene.com/usa/wp-content/uploads/sites/18/2015/12/placeholder.gif">
+                </div>
+                <!--Photo-->
+                <div class="col p-2">
+                    <img src="https://prohygiene.com/usa/wp-content/uploads/sites/18/2015/12/placeholder.gif">
+                </div>
+                <!--Photo-->
+                <div class="col p-2">
+                    <img src="https://prohygiene.com/usa/wp-content/uploads/sites/18/2015/12/placeholder.gif">
+                </div>
+            </div>
+        </div>
+        <div class="container-flex mx-auto text-center" style="width: 60%;">
+            <span style="font-size: 1.5em;" id="friends">Friends:</span>
+        </div>
+        <!--Friends Table-->
+        <div class="table-hover mx-auto" style="width: 60%;">
+            <div class="row">
+                <!--Friend Card-->
+                <div class="col">
+                    <div class="card text-center" style="border-radius: 0.5em;">
+                        <img class="card-img-top" src="https://static.vecteezy.com/system/resources/thumbnails/021/548/095/small/default-profile-picture-avatar-user-avatar-icon-person-icon-head-icon-profile-picture-icons-default-anonymous-user-male-and-female-businessman-photo-placeholder-social-network-avatar-portrait-free-vector.jpg" style="border-radius: 0.5em; aspect-ratio: 1;"><br />
+                        <div class="card-body">
+                            
+                            <h5 class="card-title" style="width: 100%;">[Other Fursona Name]</h5>
+                            <p class="card-text">[Little Description of the fursona]</p>
+                            <a class="btn btn-primary" href="#">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+                <!--Card End-->
+                <!--Friend Card-->
+                <div class="col">
+                    <div class="card text-center" style="border-radius: 0.5em;">
+                        <img class="card-img-top" src="https://static.vecteezy.com/system/resources/thumbnails/021/548/095/small/default-profile-picture-avatar-user-avatar-icon-person-icon-head-icon-profile-picture-icons-default-anonymous-user-male-and-female-businessman-photo-placeholder-social-network-avatar-portrait-free-vector.jpg" style="border-radius: 0.5em; aspect-ratio: 1;"><br />
+                        <div class="card-body">
+                            
+                            <h5 class="card-title" style="width: 100%;">[Other Fursona Name]</h5>
+                            <p class="card-text">[Little Description of the fursona]</p>
+                            <a class="btn btn-primary" href="#">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+                <!--Card End-->
+                <!--Friend Card-->
+                <div class="col">
+                    <div class="card text-center" style="border-radius: 0.5em;">
+                        <img class="card-img-top" src="https://static.vecteezy.com/system/resources/thumbnails/021/548/095/small/default-profile-picture-avatar-user-avatar-icon-person-icon-head-icon-profile-picture-icons-default-anonymous-user-male-and-female-businessman-photo-placeholder-social-network-avatar-portrait-free-vector.jpg" style="border-radius: 0.5em; aspect-ratio: 1;"><br />
+                        <div class="card-body">
+                            
+                            <h5 class="card-title" style="width: 100%;">[Other Fursona Name]</h5>
+                            <p class="card-text">[Little Description of the fursona]</p>
+                            <a class="btn btn-primary" href="#">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+                <!--Card End-->
+            </div>
+            <br />
+            <div class="row">
+                <!--Friend Card-->
+                <div class="col">
+                    <div class="card text-center" style="border-radius: 0.5em;">
+                        <img class="card-img-top" src="https://static.vecteezy.com/system/resources/thumbnails/021/548/095/small/default-profile-picture-avatar-user-avatar-icon-person-icon-head-icon-profile-picture-icons-default-anonymous-user-male-and-female-businessman-photo-placeholder-social-network-avatar-portrait-free-vector.jpg" style="border-radius: 0.5em; aspect-ratio: 1;"><br />
+                        <div class="card-body">
+                            
+                            <h5 class="card-title" style="width: 100%;">[Other Fursona Name]</h5>
+                            <p class="card-text">[Little Description of the fursona]</p>
+                            <a class="btn btn-primary" href="#">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+                <!--Card End-->
+                <!--Friend Card-->
+                <div class="col">
+                    <div class="card text-center" style="border-radius: 0.5em;">
+                        <img class="card-img-top" src="https://static.vecteezy.com/system/resources/thumbnails/021/548/095/small/default-profile-picture-avatar-user-avatar-icon-person-icon-head-icon-profile-picture-icons-default-anonymous-user-male-and-female-businessman-photo-placeholder-social-network-avatar-portrait-free-vector.jpg" style="border-radius: 0.5em; aspect-ratio: 1;"><br />
+                        <div class="card-body">
+                            
+                            <h5 class="card-title" style="width: 100%;">[Other Fursona Name]</h5>
+                            <p class="card-text">[Little Description of the fursona]</p>
+                            <a class="btn btn-primary" href="#">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+                <!--Card End-->
+                <!--Friend Card-->
+                <div class="col">
+                    <div class="card text-center" style="border-radius: 0.5em;">
+                        <img class="card-img-top" src="https://static.vecteezy.com/system/resources/thumbnails/021/548/095/small/default-profile-picture-avatar-user-avatar-icon-person-icon-head-icon-profile-picture-icons-default-anonymous-user-male-and-female-businessman-photo-placeholder-social-network-avatar-portrait-free-vector.jpg" style="border-radius: 0.5em; aspect-ratio: 1;"><br />
+                        <div class="card-body">
+                            
+                            <h5 class="card-title" style="width: 100%;">[Other Fursona Name]</h5>
+                            <p class="card-text">[Little Description of the fursona]</p>
+                            <a class="btn btn-primary" href="#">View Profile</a>
+                        </div>
+                    </div>
+                </div>
+                <!--Card End-->
+            </div>
+        </div>
+        <br />
+        <div class="container-flex mx-auto text-center" style="width: 60%;">
+            <span style="font-size: 1.5em;" id="anno">Announcements:</span>
+        </div>
+        <!--Announcement posts Copy this section for a new post-->
+        <div class="container-fluid ml-auto p-3" name="Post" style="background-color: #555; width: 60%; border-radius: 0.5em;">
+            <span class="" style="font-size: 1.2em; border-bottom: solid 0.3em Green;">New Page Announcement</span>
+                    <p class="p-3">Welcome to the Furbook network (: . This is a page under devolopment.</p>
+        </div>
+        <br />
+        <!--End Section-->
+    </div>
+    <span id="bottom"></span>
+</div>
